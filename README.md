@@ -1,6 +1,9 @@
 # 📊 Sales Data Analysis Project using Python
 
 Libraries used: PANDAS + NUMPY + MATPLOTLIB + SEABORN
+
+
+
 ![Libarires](https://github.com/nikitawarade11/Sales-Analysis-Using-Python/blob/main/lib.jpg)
 
 ---
@@ -161,6 +164,9 @@ plt.title("Product-wise Sales Analysis")
 plt.show()
 ```
 some outputs are shown as follows:
+
+
+
 ![output1](https://github.com/nikitawarade11/Sales-Analysis-Using-Python/blob/main/output1.png)
 
 ![output2](https://github.com/nikitawarade11/Sales-Analysis-Using-Python/blob/main/output2.png)
